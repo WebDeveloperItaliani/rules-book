@@ -13,6 +13,7 @@ Le minaccie o insulti alla persona sono strettamente vietati, non tolleriamo nes
 **Regola #2**
 
 Web Developer Italiani approva e condivide pienamente tutti I termini e condizioni di utilizzo di Facebook, in particolare si ricorda che:
+
 	- È vietato pubblicare materiale illegale come software pirata
 	- È vietato il brigantaggio o le azioni contro altri gruppi simili o uguali a WDI
 	- È vietato qualsiasi tipo ti promozione a fine della truffa o click baiting
@@ -33,6 +34,7 @@ Ogni post deve iniziare con un Hashtag. L'hastag va messo tra parentesi quadre `
 **Regola #6**
 
 I seguenti contenuti possono essere rimosti a discrezione dei moderatori
+
 	- Contenuti non rilevanti, non originali e senza sforzo nel creare una discussione costruttiva
 	- Contenuti palesemente falsi, che violano la Regola #4 oppure duplicati
 	- Gif, Meme o Reactions che non sono per niente rilevanti
@@ -46,6 +48,7 @@ La vostra età, la vostra nazionalità, la vostra razza, la vostra preferenza se
 **Regola #8**
 
 Se stai cercando consulenza ricordati di seguire le seguenti linee guida per una discussione perfetta
+
 	- Inizia utilizzando l'hashtag `[#consulenza]`
 	- Specifica se è remunerata o gratuita, nel caso di una consulenza pagata ricordati di onorare l'accordo in privato, riceverete dei feedback dagli utenti che vi aiutano
 	- Inserisci il tuo problema in modo chiaro, senza giri di parole
@@ -56,6 +59,7 @@ Ricordati che WDI non è un luogo per risolvere I tuoi problemi scolastici, la c
 **Regola #9**
 
 Se stai offrendo lavoro ricordati di seguire le seguenti linee guida per un annuncio perfetto
+
 	- Inizia il post con l'hashtag `[#lavoro]`
 	- Specifica l'azienda coinvolta
 	- Specifica il tuo ruolo interno all'azienda o a chi offre il lavoro
