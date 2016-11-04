@@ -1,7 +1,9 @@
-Web Developer Italiani è un gruppo che si basa sul rispetto delle competenze e della persona altrui.
-Il gruppo è nato con lo scopo di radunare I migliori sviluppatori web italiani sotto un unica ala in modo tale da scambiarsi idee ed opinioni nel rispetto reciproco.
+# Web Developer Italiani
 
-Come tutte le comunità anche WDI ha un set di regole che vanno rispettate, in caso contrario si rischia l'allontanamento temporaneo o permanente dal gruppo.
+WDI è un gruppo che si basa sul rispetto delle competenze e della persona altrui.
+Il gruppo è nato con lo scopo di radunare I migliori sviluppatori web italiani sotto un unica ala in modo tale da scambiarsi idee ed opinioni nel rispetto reciproco al limite delle possibilità gratuite. Laddove sia necessario proporre soluzioni a pagamento, è obbligatorio fornire tutti i dettagli nel modo più chiaro possibile.
+
+Come tutte le comunità anche WDI ha un set di regole che vanno rispettate, la violazione di una o più regole può comportare un ban temporaneo o permanente dal gruppo stesso.
 
 **Regola #1**
 
@@ -25,15 +27,15 @@ Screenshot di altri gruppi su Facebook, di commenti su Github, Reddit o qualasia
 **Regola #4**
 
 I link esterni a progetti di terze parti e/o progetti personali al fine promozionale devono essere privi di pubblicità ingannevole e SENZA referral link di qualsiasi genere. 
-Per poter pubblicare un link esterno con incluso un referral dovrete prima chiedere l'autorizzazione ai moderatori
+Per poter pubblicare un link esterno con incluso un referral dovrete prima chiedere l'autorizzazione ai moderatori.
 
 **Regola #5**
 
-Ogni post deve iniziare con un Hashtag. L'hastag va messo tra parentesi quadre `[#esempio]` e deve essere pertinente alla discussione che si vuole creare. WDI utilizza gli Hashtag per inidicizzare e catalogare I vari post in modo tale da creare un archivio ordinato e coerente
+Ogni post deve iniziare con un Hashtag. L'hastag va messo tra parentesi quadre `[#esempio]` e deve essere pertinente alla discussione che si vuole creare. WDI utilizza gli Hashtag per inidicizzare e catalogare I vari post in modo tale da creare un archivio ordinato e coerente.
 
 **Regola #6**
 
-I seguenti contenuti possono essere rimosti a discrezione dei moderatori
+I seguenti contenuti possono essere rimosti a discrezione dei moderatori:
 
 - Contenuti non rilevanti, non originali e senza sforzo nel creare una discussione costruttiva
 - Contenuti palesemente falsi, che violano la Regola #4 oppure duplicati
@@ -47,7 +49,7 @@ La vostra età, la vostra nazionalità, la vostra razza, la vostra preferenza se
 
 **Regola #8**
 
-Se stai cercando consulenza ricordati di seguire le seguenti linee guida per una discussione perfetta
+Se stai cercando consulenza ricordati di seguire le seguenti linee guida per una discussione perfetta:
 
 - Inizia utilizzando l'hashtag `[#consulenza]`
 - Specifica se è remunerata o gratuita, nel caso di una consulenza pagata ricordati di onorare l'accordo in privato, riceverete dei feedback dagli utenti che vi aiutano
@@ -58,7 +60,7 @@ Ricordati che WDI non è un luogo per risolvere I tuoi problemi scolastici, la c
 
 **Regola #9**
 
-Se stai offrendo lavoro ricordati di seguire le seguenti linee guida per un annuncio perfetto
+Se stai offrendo lavoro ricordati di seguire le seguenti linee guida per un annuncio perfetto:
 
 - Inizia il post con l'hashtag `[#lavoro]`
 - Specifica l'azienda coinvolta
@@ -71,5 +73,3 @@ Se stai offrendo lavoro ricordati di seguire le seguenti linee guida per un annu
 **Regola #10**
 
 L'autopromozione continua di qualsiasi servizio o prodotto nel gruppo in modo sconsiderato e senza previa approvazione, comporterà un richiamo. Tuttavia se ripetuto, il ban permanente dal gruppo.
-
-Lo scopo del gruppo è aiutare le persone al limite delle possibilità gratuite. Laddove sia necessario proporre soluzioni a pagamento, è obbligatorio fornirlo in privato con la persona stessa. Proporlo in pubblico, come post, nei commento o qualsiasi altra forma comporterà un richiamo. Tuttavia se ripetuto, il ban permanente dal gruppo.
