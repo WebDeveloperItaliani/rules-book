@@ -60,7 +60,7 @@ I seguenti contenuti possono essere rimosti a discrezione dei moderatori:
 
 **Regola #7**
 
-La vostra età, nazionalità, razza, preferenza sessuale o spiriturale o stato economico non hanno rilevanza all'interno di WDI. Tutti sono I benvenuti nel gruppo, l'unico requisito richiesto per poter rimanere è saper comprendere, leggere e scrivere in lingua italiana.
+La vostra età, nazionalità, razza, preferenza sessuale o spiriturale o stato economico non hanno rilevanza all'interno di WDI. Tutti sono i benvenuti nel gruppo, l'unico requisito richiesto per poter rimanere è saper comprendere, leggere e scrivere in lingua italiana.
 
 **Regola #8**
 
