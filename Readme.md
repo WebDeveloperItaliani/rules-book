@@ -1,7 +1,7 @@
 # Web Developer Italiani
 
 WDI è un gruppo che si basa sul rispetto delle competenze e della persona altrui.
-Il gruppo è nato con lo scopo di radunare I migliori sviluppatori web italiani sotto un unica ala in modo tale da scambiarsi idee ed opinioni nel rispetto reciproco al limite delle possibilità gratuite. Laddove sia necessario proporre soluzioni a pagamento, è obbligatorio fornire tutti i dettagli nel modo più chiaro possibile.
+Il gruppo è nato con lo scopo di radunare i migliori sviluppatori web italiani sotto un'unica ala in modo tale da scambiarsi idee ed opinioni nel rispetto reciproco al limite delle possibilità gratuite. Laddove sia necessario proporre soluzioni a pagamento, è obbligatorio fornire tutti i dettagli nel modo più chiaro possibile.
 
 Come tutte le comunità anche WDI ha un set di regole che vanno rispettate, la violazione di una o più regole può comportare un ban temporaneo o permanente dal gruppo stesso.
 
@@ -23,17 +23,18 @@ Web Developer Italiani approva e condivide pienamente tutti i termini e condizio
 
 **Regola #3**
 
-Screenshot di altri gruppi su Facebook, di commenti su Github, Reddit o qualasiasi altra piattaforma esterna a WDI dovranno essere pubblicati con il minor numero di indizi che riconducano alle persone coinvolte. Per poter pubblicare uno screenshot esso dovrà essere il più anonimo possibile, con le censure necessarie a nomi, foto di riferimento e contatti.
+Screenshot di altri gruppi su Facebook, di commenti su GitHub, Reddit o qualasiasi altra piattaforma esterna a WDI dovranno essere pubblicati con il minor numero di indizi che riconducano alle persone coinvolte. Per poter pubblicare uno screenshot esso dovrà essere il più anonimo possibile, con le censure necessarie a nomi, foto di riferimento e contatti.
 
 **Regola #4**
 
-I link esterni a progetti di terze parti e/o progetti personali al fine promozionale devono essere privi di pubblicità ingannevole e SENZA referral link di qualsiasi genere. 
+I link esterni a progetti di terze parti e/o progetti personali a fine promozionale devono essere privi di pubblicità ingannevole e SENZA referral link di qualsiasi genere. 
 Per poter pubblicare un link esterno con incluso un referral dovrete prima chiedere l'autorizzazione ai moderatori.
 
 **Regola #5**
 
-Ogni post deve iniziare con un Hashtag. L'hastag va messo tra parentesi quadre `[#esempio]` e dev'essere pertinente alla discussione che si vuole creare. WDI utilizza gli Hashtag per inidicizzare e catalogare I vari post in modo tale da creare un archivio ordinato e coerente.
-Alcuni esempi di Hashtags corretti:
+Ogni post deve iniziare con un hashtag. L'hastag va messo tra parentesi quadre `[#esempio]` e deve essere pertinente alla discussione che si vuole creare. WDI utilizza gli hashtag per inidicizzare e catalogare i vari post in modo tale da creare un archivio ordinato e coerente.
+
+Alcuni esempi di hashtag corretti:
 
 - [#PHP] [#MariaDB] [#SQLError]
 - [#Consulenza #Gratuita]
@@ -47,16 +48,15 @@ Alcuni esempi di Hashtags non idonei:
 
 I post che non avranno gli hashtag correttamente inseriti verranno prima mutati e poi, a discrezione dei moderatori, cancellati.
 
-
 **Regola #6**
 
-I seguenti contenuti possono essere rimosti a discrezione dei moderatori:
+I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 
 - Contenuti non rilevanti, non originali e senza sforzo nel creare una discussione costruttiva
 - Contenuti palesemente falsi, che violano la Regola #4 oppure duplicati
 - Gif, Meme o Reactions che non sono per niente rilevanti
 - Contenuti allo scopo di creare litigio o troll
-- Contenuti Off Topic, anche se con Hashtag
+- Contenuti Off-Topic, anche se con hashtag
 
 **Regola #7**
 
@@ -79,17 +79,17 @@ Di seguito vi mettiamo a disposizione un template per iniziare il post nella man
 Ciao a tutti.
 
 Avrei un problema con {Linguaggio} su {Piattaforma}
-// Continua a descrivi il tuo problema in modo chiaro e conciso
+// Continua a descrivere il tuo problema in modo chiaro e conciso
 // Non pretendere di dare nulla per scontato
 
 Ecco alcune risorse:
 // Link ad una domanda correlata di stack overflow
-// Link ad un gist su github, pastebin o jsbin
+// Link ad un gist, pastebin oppure jsbin
 
-Grazie a tutti per le eventuali risposte
+Grazie a tutti per le eventuali risposte.
 ```
 	
-Ricordati che WDI non è un luogo per risolvere I tuoi problemi scolastici, la consulenza è un dare/avere. Chi verrà sorpreso ad aggirare le linee guida oppure a sfruttare in modo esagerato la disponibilità degli utenti potrà essere sospeso dal gruppo.
+Ricordati che WDI non è un luogo per risolvere i tuoi problemi scolastici, la consulenza è un dare/avere. Chi verrà sorpreso ad aggirare le linee guida oppure a sfruttare in modo esagerato la disponibilità degli utenti potrà essere sospeso dal gruppo.
 
 **Regola #9**
 
@@ -97,10 +97,10 @@ Se stai offrendo lavoro ricordati di seguire le seguenti linee guida per un annu
 
 - Inizia il post con l'hashtag `[#lavoro]`
 - Specifica l'azienda coinvolta
-- Specifica il tuo ruolo interno all'azienda o a chi offre il lavoro
-- Specifica I requisiti necessari del candidato
-- Specifica I benefit per il candidato
-- Si chiaro sullo stipendio
+- Specifica il tuo ruolo all'interno dell'azienda o in che modo sei venuto a conoscenza di tale offerta lavorativa
+- Specifica i requisiti necessari del candidato
+- Specifica i benefit per il candidato
+- Sii chiaro sullo stipendio indicando la cifra o almeno una forbice
 
 Di seguito vi mettiamo a disposizione un template per iniziare il post nella maniera migliore:
 
@@ -110,18 +110,20 @@ Di seguito vi mettiamo a disposizione un template per iniziare il post nella man
 Ciao a tutti.
 
 L'Azienda {Nome Azienda} sta cercando {Numero} di {Specialità richiesta} per {Motivazione principale}
-// Fermati a fare una descrizione della società, non troppo lunga però
+// Indica in maniera concisa una descrizione dell'azienda che ricerca tale/i profilo/i
 // Aggiungi dettagli come benefit, punti chiave del progetto o contatti aziendali
 
 Il candidato dovrà avere i seguenti requisiti:
-// Elenca in modo chiaro i requisiti richiesti, si realista
+// Elenca in modo chiaro i requisiti richiesti, sii realista
 
 Se assunto, il candidato otterrà i seguenti benefit:
 // Elenca i benefit, come buoni pasto o simili
 
-// Per quanto riguarda lo stipendio siate chiari, indicate se è mensile o annuale, netto o lordo e se sono inclusi i rimborsi spese per i pendolari
+// Per ciò che concerne lo stipendio siate chiari, indicate se è mensile o annuale e se la cifra
+// indicata è netta o lorda; qualora fossero inclusi eventuali rimborsi
+// (ad es.spese per i pendolari) indicate anche questi
 ```
 
 **Regola #10**
 
-L'autopromozione continua di qualsiasi servizio o prodotto nel gruppo in modo sconsiderato e senza previa approvazione, comporterà un richiamo. Tuttavia se ripetuto, il ban permanente dal gruppo.
+L'autopromozione continua di qualsiasi servizio o prodotto nel gruppo in modo sconsiderato e senza previa approvazione, comporterà un richiamo. Un atteggiamento recidivo comporterà il ban permanente dal gruppo.
