@@ -23,7 +23,7 @@ Web Developer Italiani approva e condivide pienamente tutti i termini e condizio
 
 **Regola #3**
 
-Screenshot di altri gruppi su Facebook, di commenti su Github, Reddit o qualasiasi altra piattaforma esterna a WDI dovranno essere pubblicati con il minor numero di indizi che riconducano alle persone coinvolte. Per poter pubblicare uno screenshot esso dovrà essere il più anonimo possibile, con le censure necessarie a nomi, foto di riferimento e contatti.
+Screenshot di altri gruppi su Facebook, di commenti su Github, Reddit o qualsiasi altra piattaforma esterna a WDI dovranno essere pubblicati con il minor numero di indizi che riconducano alle persone coinvolte. Per poter pubblicare uno screenshot esso dovrà essere il più anonimo possibile, con le censure necessarie a nomi, foto di riferimento e contatti.
 
 **Regola #4**
 
@@ -32,7 +32,7 @@ Per poter pubblicare un link esterno con incluso un referral dovrete prima chied
 
 **Regola #5**
 
-Ogni post deve iniziare con un Hashtag. L'hastag va messo tra parentesi quadre `[#esempio]` e dev'essere pertinente alla discussione che si vuole creare. WDI utilizza gli Hashtag per inidicizzare e catalogare I vari post in modo tale da creare un archivio ordinato e coerente.
+Ogni post deve iniziare con un Hashtag. L'hastag va messo tra parentesi quadre `[#esempio]` e dev'essere pertinente alla discussione che si vuole creare. WDI utilizza gli Hashtag per indicizzare e catalogare I vari post in modo tale da creare un archivio ordinato e coerente.
 Alcuni esempi di Hashtags corretti:
 
 - [#PHP] [#MariaDB] [#SQLError]
@@ -50,7 +50,7 @@ I post che non avranno gli hashtag correttamente inseriti verranno prima mutati 
 
 **Regola #6**
 
-I seguenti contenuti possono essere rimosti a discrezione dei moderatori:
+I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 
 - Contenuti non rilevanti, non originali e senza sforzo nel creare una discussione costruttiva
 - Contenuti palesemente falsi, che violano la Regola #4 oppure duplicati
@@ -60,7 +60,7 @@ I seguenti contenuti possono essere rimosti a discrezione dei moderatori:
 
 **Regola #7**
 
-La vostra età, nazionalità, razza, preferenza sessuale o spiriturale o stato economico non hanno rilevanza all'interno di WDI. Tutti sono i benvenuti nel gruppo, l'unico requisito richiesto per poter rimanere è saper comprendere, leggere e scrivere in lingua italiana.
+La vostra età, nazionalità, razza, preferenza sessuale o spirituale o stato economico non hanno rilevanza all'interno di WDI. Tutti sono i benvenuti nel gruppo, l'unico requisito richiesto per poter rimanere è saper comprendere, leggere e scrivere in lingua italiana.
 
 **Regola #8**
 
@@ -100,7 +100,7 @@ Se stai offrendo lavoro ricordati di seguire le seguenti linee guida per un annu
 - Specifica il tuo ruolo interno all'azienda o a chi offre il lavoro
 - Specifica I requisiti necessari del candidato
 - Specifica I benefit per il candidato
-- Si chiaro sullo stipendio
+- Sii chiaro sullo stipendio
 
 Di seguito vi mettiamo a disposizione un template per iniziare il post nella maniera migliore:
 
@@ -124,4 +124,4 @@ Se assunto, il candidato otterrà i seguenti benefit:
 
 **Regola #10**
 
-L'autopromozione continua di qualsiasi servizio o prodotto nel gruppo in modo sconsiderato e senza previa approvazione, comporterà un richiamo. Tuttavia se ripetuto, il ban permanente dal gruppo.
+L'autopromozione continua di qualsiasi servizio o prodotto nel gruppo, in modo sconsiderato e senza previa approvazione, comporterà un richiamo. Tuttavia, se ripetuto, il ban permanente dal gruppo.
