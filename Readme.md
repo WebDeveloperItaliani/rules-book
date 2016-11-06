@@ -32,7 +32,7 @@ Per poter pubblicare un link esterno con incluso un referral dovrete prima chied
 
 **Regola #5**
 
-Ogni post deve iniziare con un hashtag. L'hastag va messo tra parentesi quadre `[#esempio]` e deve essere pertinente alla discussione che si vuole creare. WDI utilizza gli hashtag per inidicizzare e catalogare i vari post in modo tale da creare un archivio ordinato e coerente.
+Ogni post deve iniziare con un hashtag. L'hastag va messo tra parentesi quadre `[#esempio]` e deve essere pertinente alla discussione che si vuole creare. WDI utilizza gli hashtag per indicizzare e catalogare i vari post in modo tale da creare un archivio ordinato e coerente.
 
 Alcuni esempi di hashtag corretti:
 
