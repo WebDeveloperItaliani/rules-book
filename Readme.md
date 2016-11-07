@@ -23,7 +23,7 @@ Web Developer Italiani approva e condivide pienamente tutti i termini e condizio
 
 **Regola #3**
 
-Screenshot di altri gruppi su Facebook, di commenti su GitHub, Reddit o qualasiasi altra piattaforma esterna a WDI dovranno essere pubblicati con il minor numero di indizi che riconducano alle persone coinvolte. Per poter pubblicare uno screenshot esso dovrà essere il più anonimo possibile, con le censure necessarie a nomi, foto di riferimento e contatti.
+Screenshot di altri gruppi su Facebook, di commenti su GitHub, Reddit o qualsiasi altra piattaforma esterna a WDI dovranno essere pubblicati con il minor numero di indizi che riconducano alle persone coinvolte. Per poter pubblicare uno screenshot esso dovrà essere il più anonimo possibile, con le censure necessarie a nomi, foto di riferimento e contatti.
 
 **Regola #4**
 
@@ -32,7 +32,7 @@ Per poter pubblicare un link esterno con incluso un referral dovrete prima chied
 
 **Regola #5**
 
-Ogni post deve iniziare con un hashtag. L'hastag va messo tra parentesi quadre `[#esempio]` e deve essere pertinente alla discussione che si vuole creare. WDI utilizza gli hashtag per inidicizzare e catalogare i vari post in modo tale da creare un archivio ordinato e coerente.
+Ogni post deve iniziare con un hashtag. L'hashtag va messo tra parentesi quadre `[#esempio]` e deve essere pertinente alla discussione che si vuole creare. WDI utilizza gli hashtag per indicizzare e catalogare i vari post in modo tale da creare un archivio ordinato e coerente.
 
 Alcuni esempi di hashtag corretti:
 
@@ -60,7 +60,7 @@ I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 
 **Regola #7**
 
-La vostra età, nazionalità, razza, preferenza sessuale o spiriturale o stato economico non hanno rilevanza all'interno di WDI. Tutti sono i benvenuti nel gruppo, l'unico requisito richiesto per poter rimanere è saper comprendere, leggere e scrivere in lingua italiana.
+La vostra età, nazionalità, razza, preferenza sessuale o spirituale o stato economico non hanno rilevanza all'interno di WDI. Tutti sono i benvenuti nel gruppo, l'unico requisito richiesto per poter rimanere è saper comprendere, leggere e scrivere in lingua italiana.
 
 **Regola #8**
 
@@ -126,4 +126,4 @@ Se assunto, il candidato otterrà i seguenti benefit:
 
 **Regola #10**
 
-L'autopromozione continua di qualsiasi servizio o prodotto nel gruppo in modo sconsiderato e senza previa approvazione, comporterà un richiamo. Un atteggiamento recidivo comporterà il ban permanente dal gruppo.
+L'autopromozione continua di qualsiasi servizio o prodotto nel gruppo, in modo sconsiderato e senza previa approvazione, comporterà un richiamo. Un atteggiamento recidivo comporterà il ban permanente dal gruppo.
