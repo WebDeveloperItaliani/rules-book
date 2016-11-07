@@ -5,14 +5,14 @@ Il gruppo è nato con lo scopo di radunare i migliori sviluppatori web italiani 
 
 Come tutte le comunità anche WDI ha un set di regole che vanno rispettate, la violazione di una o più regole può comportare un ban temporaneo o permanente dal gruppo stesso.
 
-**Regola #1**
+## No diffamazione
 
 Le minacce o insulti alla persona sono strettamente vietati, non tolleriamo nessun tipo di incitamento alla violenza, discriminazione di razza, genere sessuale o preferenze personali. Inserire all'interno delle discussioni informazioni sensibili su altre persone al fine di danneggiarle comporta la rimozione di tali informazioni e la sospensione instantanea dal gruppo.
 
     Ricordati che tu puoi non essere d'accordo con qualcuno ma questo non ti da il diritto di insultarlo,
     minacciarlo o disturbarlo in qualsiasi modo
 
-**Regola #2**
+## No spam
 
 Web Developer Italiani approva e condivide pienamente tutti i termini e condizioni di utilizzo di Facebook, in particolare si ricorda che:
 
@@ -21,16 +21,16 @@ Web Developer Italiani approva e condivide pienamente tutti i termini e condizio
 - È vietato qualsiasi tipo ti promozione a fine della truffa o click baiting
 - È vietato postare materiale pornografico di qualsiasi genere
 
-**Regola #3**
+## Screenshot anonimizzati
 
 Screenshot di altri gruppi su Facebook, di commenti su GitHub, Reddit o qualsiasi altra piattaforma esterna a WDI dovranno essere pubblicati con il minor numero di indizi che riconducano alle persone coinvolte. Per poter pubblicare uno screenshot esso dovrà essere il più anonimo possibile, con le censure necessarie a nomi, foto di riferimento e contatti.
 
-**Regola #4**
+## No referral link
 
 I link esterni a progetti di terze parti e/o progetti personali a fine promozionale devono essere privi di pubblicità ingannevole e SENZA referral link di qualsiasi genere. 
 Per poter pubblicare un link esterno con incluso un referral dovrete prima chiedere l'autorizzazione ai moderatori.
 
-**Regola #5**
+## Hashtag in ogni post
 
 Ogni post deve iniziare con un hashtag. L'hashtag va messo tra parentesi quadre `[#esempio]` e deve essere pertinente alla discussione che si vuole creare. WDI utilizza gli hashtag per indicizzare e catalogare i vari post in modo tale da creare un archivio ordinato e coerente.
 
@@ -48,7 +48,7 @@ Alcuni esempi di Hashtags non idonei:
 
 I post che non avranno gli hashtag correttamente inseriti verranno prima mutati e poi, a discrezione dei moderatori, cancellati.
 
-**Regola #6**
+## No off-topic e non costruttivi
 
 I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 
@@ -58,11 +58,11 @@ I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 - Contenuti allo scopo di creare litigio o troll
 - Contenuti Off-Topic, anche se con hashtag
 
-**Regola #7**
+## No discriminazione
 
 La vostra età, nazionalità, razza, preferenza sessuale o spirituale o stato economico non hanno rilevanza all'interno di WDI. Tutti sono i benvenuti nel gruppo, l'unico requisito richiesto per poter rimanere è saper comprendere, leggere e scrivere in lingua italiana.
 
-**Regola #8**
+## Suggerimenti per chiedere aiuto
 
 Se stai cercando consulenza ricordati di seguire le seguenti linee guida per una discussione perfetta:
 
@@ -91,7 +91,7 @@ Grazie a tutti per le eventuali risposte.
 	
 Ricordati che WDI non è un luogo per risolvere i tuoi problemi scolastici, la consulenza è un dare/avere. Chi verrà sorpreso ad aggirare le linee guida oppure a sfruttare in modo esagerato la disponibilità degli utenti potrà essere sospeso dal gruppo.
 
-**Regola #9**
+## Offerte di lavoro
 
 Se stai offrendo lavoro ricordati di seguire le seguenti linee guida per un annuncio perfetto:
 
@@ -124,6 +124,6 @@ Se assunto, il candidato otterrà i seguenti benefit:
 // (ad es.spese per i pendolari) indicate anche questi
 ```
 
-**Regola #10**
+## No autopromozione
 
 L'autopromozione continua di qualsiasi servizio o prodotto nel gruppo, in modo sconsiderato e senza previa approvazione, comporterà un richiamo. Un atteggiamento recidivo comporterà il ban permanente dal gruppo.
