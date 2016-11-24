@@ -127,3 +127,14 @@ Se assunto, il candidato otterrà i seguenti benefit:
 ## No autopromozione
 
 L'autopromozione continua di qualsiasi servizio o prodotto nel gruppo, in modo sconsiderato e senza previa approvazione, comporterà un richiamo. Un atteggiamento recidivo comporterà il ban permanente dal gruppo.
+
+## Conferenze
+
+Se fai parte dello staff di una conferenza e vuoi farla conoscere su Web Developer Italiani, sei il benvenuto! 
+
+Abbiamo tuttavia deciso di adottare alcune misure qualitative anche sotto questo punto di vista. Puoi pubblicare un post inerente la tua conferenza, a queste condizioni:
+
+* la conferenza è gratuita;
+* la conferenza non è gratuita, ma puoi mettere a disposizione degli utenti di WDI un buono sconto (in questo caso specifico, non postare subito ma scrivi prima ad uno degli amministratori);
+
+Nota: i post inerenti una conferenza devono comunque seguire tutte le regole presenti in questo documento.
