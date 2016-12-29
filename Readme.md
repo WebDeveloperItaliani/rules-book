@@ -27,7 +27,7 @@ Screenshot di altri gruppi su Facebook, di commenti su GitHub, Reddit o qualsias
 
 ## No referral link
 
-I link esterni a progetti di terze parti e/o progetti personali a fine promozionale devono essere privi di pubblicità ingannevole e SENZA referral link di qualsiasi genere. 
+I link esterni a progetti di terze parti e/o progetti personali a fine promozionale devono essere privi di pubblicità ingannevole e SENZA referral link di qualsiasi genere.
 Per poter pubblicare un link esterno con incluso un referral dovrete prima chiedere l'autorizzazione ai moderatori.
 
 ## Hashtag in ogni post
@@ -88,19 +88,27 @@ Ecco alcune risorse:
 
 Grazie a tutti per le eventuali risposte.
 ```
-	
+
 Ricordati che WDI non è un luogo per risolvere i tuoi problemi scolastici, la consulenza è un dare/avere. Chi verrà sorpreso ad aggirare le linee guida oppure a sfruttare in modo esagerato la disponibilità degli utenti potrà essere sospeso dal gruppo.
 
 ## Offerte di lavoro
 
 Se stai offrendo lavoro ricordati di seguire le seguenti linee guida per un annuncio perfetto:
 
+**Voci obbligatorie:**
+
 - Inizia il post con l'hashtag `[#lavoro]`
 - Specifica l'azienda coinvolta
 - Specifica il tuo ruolo all'interno dell'azienda o in che modo sei venuto a conoscenza di tale offerta lavorativa
 - Specifica i requisiti necessari del candidato
+- Specifica il tipo di contratto (o i tipi di contratto possibili)
+- Specifica la retribuzione minima (RAL se contratto italiano dipendente, retribuzione oraria o giornaliera minima se riguarda liberi professionisti)
+
+Voci consigliate:
+
 - Specifica i benefit per il candidato
-- Sii chiaro sullo stipendio indicando la cifra o almeno una forbice
+- Indica una forbice retributiva (il minimo è obbligatorio come specificato in precedenza)
+- Indica se è possibile lavorare da remoto
 
 Di seguito vi mettiamo a disposizione un template per iniziare il post nella maniera migliore:
 
@@ -130,7 +138,7 @@ L'autopromozione continua di qualsiasi servizio o prodotto nel gruppo, in modo s
 
 ## Conferenze
 
-Se fai parte dello staff di una conferenza e vuoi farla conoscere su Web Developer Italiani, sei il benvenuto! 
+Se fai parte dello staff di una conferenza e vuoi farla conoscere su Web Developer Italiani, sei il benvenuto!
 
 Abbiamo tuttavia deciso di adottare alcune misure qualitative anche sotto questo punto di vista. Puoi pubblicare un post inerente la tua conferenza, a queste condizioni:
 
