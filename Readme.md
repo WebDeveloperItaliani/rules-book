@@ -57,6 +57,7 @@ I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 - Gif, Meme o Reactions che non sono per niente rilevanti
 - Contenuti allo scopo di creare litigio o troll
 - Contenuti Off-Topic, anche se con hashtag
+- Confronti inconclusivi tra framework e/o linguaggi che non portino ad una discussione sensata e utile
 
 ## No discriminazione
 
