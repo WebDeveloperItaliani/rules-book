@@ -69,7 +69,11 @@ Se stai cercando consulenza ricordati di seguire le seguenti linee guida per una
 - Inizia utilizzando l'hashtag `[#consulenza]` magari seguito dal topic più rilevante come [#php] per esempio
 - Specifica se è remunerata o gratuita, nel caso di una consulenza pagata ricordati di onorare l'accordo in privato, riceverete dei feedback dagli utenti che vi aiutano
 - Inserisci il tuo problema in modo chiaro, senza giri di parole
-- Fornisci snippet del tuo codice sorgente tramite gist, pastebin oppure jsbin
+- Fornisci snippet del tuo codice sorgente tramite servizi come:
+  - [GitHub Gist](https://gist.github.com/)
+  - [hastebin](https://hastebin.com/)
+  - [JS Bin](http://jsbin.com/)
+  - [CodePen](https://codepen.io/pen)
 
 Di seguito vi mettiamo a disposizione un template per iniziare il post nella maniera migliore:
 
@@ -84,7 +88,7 @@ Avrei un problema con {Linguaggio} su {Piattaforma}
 
 Ecco alcune risorse:
 // Link ad una domanda correlata di stack overflow
-// Link ad un gist, pastebin oppure jsbin
+// Link ad un Gist, hastebin, JS Bin, CodePen, ...
 
 Grazie a tutti per le eventuali risposte.
 ```
