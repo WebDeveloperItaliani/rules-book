@@ -57,6 +57,7 @@ I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 - Gif, Meme o Reactions che non sono per niente rilevanti
 - Contenuti allo scopo di creare litigio o troll
 - Contenuti Off-Topic, anche se con hashtag
+- Contenuti illegali e/o coperti da copyright (libri, video, guide)
 
 ## No discriminazione
 
