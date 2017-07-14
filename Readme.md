@@ -115,6 +115,14 @@ Voci consigliate:
 - Indica una forbice retributiva (il minimo è obbligatorio come specificato in precedenza)
 - Indica se è possibile lavorare da remoto
 
+Così come è obbligatorio, per chi offre lavoro, il rispetto del regolamento allo stesso modo chi non è interessato all'annuncio può evitare di scrivere commenti che lasciano il tempo che trovano. La civiltà deve essere mantenuta da entrambe le parti. Esempi di commenti che verranno cancellati:
+
+- "l'offerta è troppo bassa"
+- "non troverete mai chi cercate"
+- battute e ironia varia
+
+Se un admin rileverà che questo comportamento dovesse essere portato avanti più di una volta da quell'utente (esattamente come già avviene per chi mette annunci non compatibili) i commenti verranno cancellati e in casi più gravi l'utente espulso dal gruppo.
+
 Di seguito vi mettiamo a disposizione un template per iniziare il post nella maniera migliore:
 
 ```
