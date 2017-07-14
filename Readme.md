@@ -119,7 +119,7 @@ Così come è obbligatorio il rispetto del regolamento per chi offre lavoro, all
 
 - "l'offerta è troppo bassa"
 - "non troverete mai chi cercate"
-- battute e ironia varia
+- battute o commenti ironici che non portano nulla di concreto alla discussione
 
 Se un admin rileverà che questo comportamento dovesse essere portato avanti più di una volta da quell'utente (esattamente come già avviene per chi mette annunci non compatibili) i commenti verranno cancellati e in casi più gravi l'utente espulso dal gruppo.
 
