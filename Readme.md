@@ -104,7 +104,6 @@ Se stai offrendo lavoro ricordati di seguire le seguenti linee guida per un annu
 
 - Inizia il post con l'hashtag `[#lavoro]`
 - Specifica l'azienda coinvolta
-- Specifica il tuo ruolo all'interno dell'azienda o in che modo sei venuto a conoscenza di tale offerta lavorativa
 - Specifica i requisiti necessari del candidato
 - Specifica il tipo di contratto (o i tipi di contratto possibili)
 - Specifica la retribuzione minima (RAL se contratto italiano dipendente, retribuzione oraria o giornaliera minima se riguarda liberi professionisti)
@@ -114,6 +113,7 @@ Voci consigliate:
 - Specifica i benefit per il candidato
 - Indica una forbice retributiva (il minimo è obbligatorio come specificato in precedenza)
 - Indica se è possibile lavorare da remoto
+- Specifica il tuo ruolo all'interno dell'azienda o in che modo sei venuto a conoscenza di tale offerta lavorativa
 
 Così come è obbligatorio il rispetto del regolamento per chi offre lavoro, allo stesso modo chi non è interessato all'annuncio può evitare di scrivere risposte inopportune. La civiltà deve essere mantenuta da entrambe le parti. Esempi di commenti che verranno cancellati:
 
