@@ -33,6 +33,8 @@ Per poter pubblicare un link esterno con incluso un referral dovrete prima chied
 ## Hashtag in ogni post
 
 Ogni post deve iniziare con un hashtag. L'hashtag va messo tra parentesi quadre `[#esempio]` e deve essere pertinente alla discussione che si vuole creare. WDI utilizza gli hashtag per indicizzare e catalogare i vari post in modo tale da creare un archivio ordinato e coerente.
+Sono stati selezionati 3 "Main Hashtags" per le categorie di post più diffuse:
+#Supporto   #Lavoro   #Eventi
 
 Alcuni esempi di hashtag corretti:
 
@@ -67,7 +69,7 @@ La vostra età, nazionalità, razza, preferenza sessuale o spirituale o stato ec
 
 Se stai cercando consulenza ricordati di seguire le seguenti linee guida per una discussione perfetta:
 
-- Inizia utilizzando l'hashtag `[#consulenza]` magari seguito dal topic più rilevante come [#php] per esempio
+- Inizia utilizzando l'hashtag `[#Supporto]` magari seguito dal topic più rilevante come [#php] per esempio
 - Specifica se è remunerata o gratuita, nel caso di una consulenza pagata ricordati di onorare l'accordo in privato, riceverete dei feedback dagli utenti che vi aiutano
 - Inserisci il tuo problema in modo chiaro, senza giri di parole
 - Fornisci snippet del tuo codice sorgente tramite servizi come:
@@ -79,7 +81,7 @@ Se stai cercando consulenza ricordati di seguire le seguenti linee guida per una
 Di seguito vi mettiamo a disposizione un template per iniziare il post nella maniera migliore:
 
 ```
-[#Consulenza #{linguaggio o altro} #{Piattaforma o altro}]
+[#Supporto #{Linguaggio} #{Piattaforma} #{Altro}]
 
 Ciao a tutti.
 
@@ -102,7 +104,7 @@ Se stai offrendo lavoro ricordati di seguire le seguenti linee guida per un annu
 
 **Voci obbligatorie:**
 
-- Inizia il post con l'hashtag `[#lavoro]`
+- Inizia il post con l'hashtag `[#Lavoro]`
 - Specifica l'azienda coinvolta
 - Specifica i requisiti necessari del candidato
 - Specifica il tipo di contratto (o i tipi di contratto possibili)
@@ -149,13 +151,13 @@ Se assunto, il candidato otterrà i seguenti benefit:
 
 L'autopromozione continua di qualsiasi servizio o prodotto nel gruppo, in modo sconsiderato e senza previa approvazione, comporterà un richiamo. Un atteggiamento recidivo comporterà il ban permanente dal gruppo.
 
-## Conferenze
+## Eventi
 
-Se fai parte dello staff di una conferenza e vuoi farla conoscere su Web Developer Italiani, sei il benvenuto!
+Se fai parte dello staff di una conferenza e vuoi far conoscere il tuo evento su Web Developer Italiani, sei il benvenuto!
 
 Abbiamo tuttavia deciso di adottare alcune misure qualitative anche sotto questo punto di vista. Puoi pubblicare un post inerente la tua conferenza, a queste condizioni:
 
 * la conferenza è gratuita;
-* la conferenza non è gratuita, ma puoi mettere a disposizione degli utenti di WDI un buono sconto (in questo caso specifico, non postare subito ma scrivi prima ad uno degli amministratori);
+* la conferenza non è gratuita, ma puoi mettere a disposizione degli utenti di WDI un buono sconto (in questo caso specifico, verrà accordato un piano di comunicazione specifico con gli amministratori);
 
-Nota: i post inerenti una conferenza devono comunque seguire tutte le regole presenti in questo documento.
+Nota: i post inerenti una conferenza devono comunque seguire tutte le regole presenti in questo documento e dovranno riportare l'hashtag `[#Eventi]`.
