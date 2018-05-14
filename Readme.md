@@ -30,25 +30,23 @@ Screenshot di altri gruppi su Facebook, di commenti su GitHub, Reddit o qualsias
 I link esterni a progetti di terze parti e/o progetti personali a fine promozionale devono essere privi di pubblicità ingannevole e SENZA referral link di qualsiasi genere.
 Per poter pubblicare un link esterno con incluso un referral dovrete prima chiedere l'autorizzazione ai moderatori.
 
-## Hashtag in ogni post
+## ~~Hashtag~~ Topic in ogni post [BETA]
 
-Ogni post deve iniziare con un hashtag. L'hashtag va messo tra parentesi quadre `[#esempio]` e deve essere pertinente alla discussione che si vuole creare. WDI utilizza gli hashtag per indicizzare e catalogare i vari post in modo tale da creare un archivio ordinato e coerente.
-Sono stati selezionati 3 "Main Hashtags" per le categorie di post più diffuse:
-#Supporto   #Lavoro   #Eventi
+Grazie all'introduzione della nuova feature di Facebook, è ora possibile categorizzare i post più facilmente.
+Requisito necessario di ogni post è l'inserimento della MacroCategoria, a scelta tra:
+`Categoria: Supporto`   `Categoria: Lavoro`   `Categoria: Eventi`   `Categoria: Risorse`
 
-Alcuni esempi di hashtag corretti:
+Se il post è strettamente correlato ad un linguaggio, ad esempio:
+`Linguaggio: Javascript`    `Linguaggio: PHP`   `Linguaggio: Go`
 
-- [#PHP] [#MariaDB] [#SQLError]
-- [#Consulenza #Gratuita]
-- [#Lavoro #Milano #PHP]
+Se il post è strettamente correlato ad un Sistema Operativo:
+`Piattaforma: Windows`    `Piattaforma: MacOS`    `Piattaforma: Linux`
 
-Alcuni esempi di Hashtags non idonei:
+Se il post è strettamente correlato ad un Framework:
+`Framework: React`    `Framework: jQuery`    `Framework: AngularJS`
 
-- #aiuto
-- #nonsiconnettealdb
-- [php]
-
-I post che non avranno gli hashtag correttamente inseriti verranno prima mutati e poi, a discrezione dei moderatori, cancellati.
+Essendo gli argomenti in continua evoluzione, i Topic verranno periodicamente aggiunti, aggiornati e riorganizzati.
+I post che non avranno i topic correttamente inseriti verranno prima mutati e poi, a discrezione dei moderatori, cancellati.
 
 ## No off-topic e non costruttivi
 
@@ -69,20 +67,18 @@ La vostra età, nazionalità, razza, preferenza sessuale o spirituale o stato ec
 
 Se stai cercando consulenza ricordati di seguire le seguenti linee guida per una discussione perfetta:
 
-- Inizia utilizzando l'hashtag `[#Supporto]` magari seguito dal topic più rilevante come [#php] per esempio
-- Specifica se è remunerata o gratuita, nel caso di una consulenza pagata ricordati di onorare l'accordo in privato, riceverete dei feedback dagli utenti che vi aiutano
-- Inserisci il tuo problema in modo chiaro, senza giri di parole
+- Inizia ~~utilizzando l'hashtag [#Supporto]~~ selezionando il Topic `Categoria: Supporto`, seguito dal linguaggio relativo, ad esempio `Linguaggio: PHP`;
+- Specifica se è remunerata o gratuita, nel caso di una consulenza pagata ricordati di onorare l'accordo in privato, riceverete dei feedback dagli utenti che vi aiutano;
+- Inserisci il tuo problema in modo chiaro, senza giri di parole;
 - Fornisci snippet del tuo codice sorgente tramite servizi come:
   - [GitHub Gist](https://gist.github.com/)
   - [hastebin](https://hastebin.com/)
   - [JS Bin](http://jsbin.com/)
   - [CodePen](https://codepen.io/pen)
 
-Di seguito vi mettiamo a disposizione un template per iniziare il post nella maniera migliore:
+Di seguito vi mettiamo a disposizione un template per scrivere il post nella maniera migliore:
 
 ```
-[#Supporto #{Linguaggio} #{Piattaforma} #{Altro}]
-
 Ciao a tutti.
 
 Avrei un problema con {Linguaggio} su {Piattaforma}
@@ -104,7 +100,8 @@ Se stai offrendo lavoro ricordati di seguire le seguenti linee guida per un annu
 
 **Voci obbligatorie:**
 
-- Inizia il post con l'hashtag `[#Lavoro]`
+- ~~Inizia il post con l'hashtag [#Lavoro]~~
+- Inizia selezionando il Topic `Categoria: Lavoro`
 - Specifica l'azienda coinvolta
 - Specifica i requisiti necessari del candidato
 - Specifica il tipo di contratto (o i tipi di contratto possibili)
@@ -128,8 +125,6 @@ Se un admin rileverà che questo comportamento dovesse essere portato avanti pi�
 Di seguito vi mettiamo a disposizione un template per iniziare il post nella maniera migliore:
 
 ```
-[#Lavoro #{Località} #{Piattaforma o Linguaggio principale}]
-
 Ciao a tutti.
 
 L'Azienda {Nome Azienda} sta cercando {Numero} di {Specialità richiesta} per {Motivazione principale}
@@ -160,4 +155,4 @@ Abbiamo tuttavia deciso di adottare alcune misure qualitative anche sotto questo
 * la conferenza è gratuita;
 * la conferenza non è gratuita, ma puoi mettere a disposizione degli utenti di WDI un buono sconto (in questo caso specifico, verrà accordato un piano di comunicazione specifico con gli amministratori);
 
-Nota: i post inerenti una conferenza devono comunque seguire tutte le regole presenti in questo documento e dovranno riportare l'hashtag `[#Eventi]`.
+Nota: i post inerenti una conferenza devono comunque seguire tutte le regole presenti in questo documento e dovranno ~~riportare l'hashtag [#Eventi]~~ utilizzare il Topic `Categoria: Eventi`.
