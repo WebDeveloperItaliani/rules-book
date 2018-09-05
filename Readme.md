@@ -61,6 +61,7 @@ I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 
 Alcuni contenti Off-Topic sono permessi se rilevanti al gruppo, ad esempio se si parla di hardware che viene usato nell'ambito dello sviluppo, come chiedere consigli su un computer adatto allo sviluppo, o estensioni di memoria, tastiere, mouse, postazione di lavoro, etc... Questi sono ritenuti accettabili. Ma chiedere per esempio: "Quale hardware per giocare all'ultimo titolo XYZ" non sara' tollerato ed elimitato.
 Negli Off-Topic permessi, si prega di usare il topic `OT`.
+Inoltre ogni Off-Topic con link a siti come amazon a cui e' stato allegato un referral, verra' cancellato instantaneamente.
 
 ## No discriminazione
 
