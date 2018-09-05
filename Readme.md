@@ -56,10 +56,12 @@ I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 - Contenuti palesemente falsi, che violano la Regola #4 oppure duplicati
 - Gif, Meme o Reactions che non sono per niente rilevanti
 - Contenuti allo scopo di creare litigio o troll
-- Contenuti Off-Topic (salvo eccezioni), anche se con topic
+- Contenuti Off-Topic (Vedi [eccezioni](#eccezioni-off-topic))
 - Contenuti illegali e/o coperti da copyright (libri, video, guide)
 
-Alcuni contenti Off-Topic sono permessi se rilevanti al gruppo, ad esempio se si parla di hardware che viene usato nell'ambito dello sviluppo, come chiedere consigli su un computer adatto allo sviluppo, o estensioni di memoria, tastiere, mouse, postazione di lavoro, etc... Questi sono ritenuti accettabili. Ma chiedere per esempio: "Quale hardware per giocare all'ultimo titolo XYZ" non sara' tollerato ed elimitato.
+### Eccezioni Off-Topic
+
+Nell'ottica di una community coesa e per non limitare la comunicazione professionale tra gli utenti, sono permessi i contenuti ``Off-Topic`` strettamente riguardanti l'ambito di sviluppo: hardware di sviluppo, postazioni da lavoro, configurazioni editor ed informazioni su hosting e cloud.
 Negli Off-Topic permessi, si prega di usare il topic `OT`.
 Inoltre ogni Off-Topic con link a siti come amazon a cui e' stato allegato un referral, verra' cancellato instantaneamente.
 
