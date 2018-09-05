@@ -61,7 +61,7 @@ I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 
 ### Eccezioni Off-Topic
 
-Nell'ottica di una community coesa e per non limitare la comunicazione professionale tra gli utenti, sono permessi i contenuti ``Off-Topic`` strettamente riguardanti l'ambito di sviluppo: hardware di sviluppo, postazioni da lavoro, configurazioni editor ed informazioni su hosting e cloud.
+Nell'ottica di una community coesa e per non limitare la comunicazione professionale tra gli utenti, sono permessi i contenuti `Off-Topic` strettamente riguardanti l'ambito di sviluppo: hardware di sviluppo, postazioni da lavoro, configurazioni editor ed informazioni su hosting e cloud.
 Negli Off-Topic permessi, si prega di usare il topic `OT`.
 Inoltre ogni Off-Topic con link a siti come amazon a cui e' stato allegato un referral, verra' cancellato instantaneamente.
 
