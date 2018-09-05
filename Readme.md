@@ -56,8 +56,11 @@ I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 - Contenuti palesemente falsi, che violano la Regola #4 oppure duplicati
 - Gif, Meme o Reactions che non sono per niente rilevanti
 - Contenuti allo scopo di creare litigio o troll
-- Contenuti Off-Topic, anche se con hashtag
+- Contenuti Off-Topic (salvo eccezioni), anche se con topic
 - Contenuti illegali e/o coperti da copyright (libri, video, guide)
+
+Alcuni contenti Off-Topic sono permessi se rilevanti al gruppo, ad esempio se si parla di hardware che viene usato nell'ambito dello sviluppo, come chiedere consigli su un computer adatto allo sviluppo, o estensioni di memoria, tastiere, mouse, postazione di lavoro, etc... Questi sono ritenuti accettabili. Ma chiedere per esempio: "Quale hardware per giocare all'ultimo titolo XYZ" non sara' tollerato ed elimitato.
+Negli Off-Topic permessi, si prega di usare il topic `OT`.
 
 ## No discriminazione
 
