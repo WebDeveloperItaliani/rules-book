@@ -30,24 +30,6 @@ Screenshot di altri gruppi su Facebook, di commenti su GitHub, Reddit o qualsias
 I link esterni a progetti di terze parti e/o progetti personali a fine promozionale devono essere privi di pubblicità ingannevole e SENZA referral link di qualsiasi genere.
 Per poter pubblicare un link esterno con incluso un referral dovrete prima chiedere l'autorizzazione ai moderatori.
 
-## ~~Hashtag~~ Topic in ogni post [BETA]
-
-Grazie all'introduzione della nuova feature di Facebook, è ora possibile categorizzare i post più facilmente.
-Requisito necessario di ogni post è l'inserimento della MacroCategoria, a scelta tra:
-`Categoria: Supporto`   `Categoria: Lavoro`   `Categoria: Eventi`   `Categoria: Risorse`
-
-Se il post è strettamente correlato ad un linguaggio, ad esempio:
-`Linguaggio: Javascript`    `Linguaggio: PHP`   `Linguaggio: Go`
-
-Se il post è strettamente correlato ad un Sistema Operativo:
-`Piattaforma: Windows`    `Piattaforma: MacOS`    `Piattaforma: Linux`
-
-Se il post è strettamente correlato ad un Framework:
-`Framework: React`    `Framework: jQuery`    `Framework: AngularJS`
-
-Essendo gli argomenti in continua evoluzione, i Topic verranno periodicamente aggiunti, aggiornati e riorganizzati.
-I post che non avranno i topic correttamente inseriti verranno prima mutati e poi, a discrezione dei moderatori, cancellati.
-
 ## No off-topic e non costruttivi
 
 I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
@@ -62,7 +44,6 @@ I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 ### Eccezioni Off-Topic
 
 Nell'ottica di una community coesa e per non limitare la comunicazione professionale tra gli utenti, sono permessi i contenuti `Off-Topic` strettamente riguardanti l'ambito di sviluppo: hardware di sviluppo, postazioni da lavoro, configurazioni editor ed informazioni su hosting e cloud.
-Negli Off-Topic permessi, si prega di usare il topic `OT`.
 Inoltre ogni Off-Topic con link a siti come amazon a cui e' stato allegato un referral, verra' cancellato instantaneamente.
 
 ## No discriminazione
@@ -73,7 +54,6 @@ La vostra età, nazionalità, razza, preferenza sessuale o spirituale o stato ec
 
 Se stai cercando consulenza ricordati di seguire le seguenti linee guida per una discussione perfetta:
 
-- Inizia ~~utilizzando l'hashtag [#Supporto]~~ selezionando il Topic `Categoria: Supporto`, seguito dal linguaggio relativo, ad esempio `Linguaggio: PHP`;
 - Specifica se è remunerata o gratuita, nel caso di una consulenza pagata ricordati di onorare l'accordo in privato, riceverete dei feedback dagli utenti che vi aiutano;
 - Inserisci il tuo problema in modo chiaro, senza giri di parole;
 - Fornisci snippet del tuo codice sorgente tramite servizi come:
@@ -106,8 +86,6 @@ Se stai offrendo lavoro ricordati di seguire le seguenti linee guida per un annu
 
 **Voci obbligatorie:**
 
-- ~~Inizia il post con l'hashtag [#Lavoro]~~
-- Inizia selezionando il Topic `Categoria: Lavoro`
 - Specifica l'azienda coinvolta
 - Specifica i requisiti necessari del candidato
 - Specifica il tipo di contratto (o i tipi di contratto possibili)
@@ -161,4 +139,4 @@ Abbiamo tuttavia deciso di adottare alcune misure qualitative anche sotto questo
 * la conferenza è gratuita;
 * la conferenza non è gratuita, ma puoi mettere a disposizione degli utenti di WDI un buono sconto (in questo caso specifico, verrà accordato un piano di comunicazione specifico con gli amministratori);
 
-Nota: i post inerenti una conferenza devono comunque seguire tutte le regole presenti in questo documento e dovranno ~~riportare l'hashtag [#Eventi]~~ utilizzare il Topic `Categoria: Eventi`.
+Nota: i post inerenti una conferenza devono comunque seguire tutte le regole presenti in questo documento.
