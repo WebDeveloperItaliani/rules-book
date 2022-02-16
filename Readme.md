@@ -130,6 +130,10 @@ Se assunto, il candidato otterrà i seguenti benefit:
 
 L'autopromozione continua di qualsiasi servizio o prodotto nel gruppo, in modo sconsiderato e senza previa approvazione, comporterà un richiamo. Un atteggiamento recidivo comporterà il ban permanente dal gruppo.
 
+## No richieste di informazioni su corsi brevi
+
+Tutti i post relativi a richieste di informazioni su corsi "brevi" (il classico "diventa sviluppatore in 3 mesi") non saranno più approvati. Abbiamo notato (ed in alcuni casi controllato) che nella grande maggioranza dei casi si tratta perlopiù di post creati su misura da chi eroga questi corsi, invece di essere richieste sincere di aiuto.
+
 ## Eventi
 
 Se fai parte dello staff di una conferenza e vuoi far conoscere il tuo evento su Web Developer Italiani, sei il benvenuto!
